@@ -50,6 +50,7 @@
 />
 <br>
 <br>
+<br>
 
 ### Frameworks JAVA
 <img 
@@ -87,6 +88,7 @@
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" 
 />
+<br>
 <br>
 <br>
 
@@ -128,6 +130,7 @@
 />
 <br>
 <br>
+<br>
 
 ### Databases
 <img 
@@ -164,6 +167,7 @@
 />
 <br>
 <br>
+<br>
 
 ### Broker
 <img 
@@ -174,6 +178,7 @@
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" 
 />
+<br>
 <br>
 <br>
 
@@ -226,6 +231,7 @@
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"        
 />
+<br>
 <br>
 <br>
 
