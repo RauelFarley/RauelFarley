@@ -1,5 +1,9 @@
-## Full Stack Developer
-### Programming languages
+<div style="background-color: lightblue; padding: 20px; border-radius: 10px;">
+    <h1 style="text-align: center;">Full Stack Developer</h1>
+    <p>Below are my skills.</p>
+</div>
+
+#### Programming languages
 <img 
     align="left"
     alt="JAVA"
@@ -52,7 +56,7 @@
 <br>
 <br>
 
-### Frameworks JAVA
+#### Frameworks JAVA
 <img 
     align="left"
     alt="SPRING"
@@ -92,7 +96,7 @@
 <br>
 <br>
 
-### Frameworks JavaScript/TypeScript
+#### Frameworks JavaScript/TypeScript
 <img 
     align="left"
     alt="AngularJS"
@@ -132,7 +136,7 @@
 <br>
 <br>
 
-### Databases
+#### Databases
 <img 
     align="left"
     alt="Oracle"
@@ -169,7 +173,7 @@
 <br>
 <br>
 
-### Broker
+#### Broker
 <img 
     align="left"
     alt="RabbitMQ"
@@ -182,7 +186,7 @@
 <br>
 <br>
 
-### IDE's and framework's
+#### IDE's and framework's
 <img 
     align="left"
     alt="IntelliJ IDEA"
@@ -235,7 +239,7 @@
 <br>
 <br>
 
-### Contact          
+#### Contact          
 <a href="https://www.linkedin.com/in/rauel-farley-ara%C3%BAjo-lima-66412339/?locale=en_US" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
     alt="LinkedIn Profile" 
